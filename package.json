@@ -25,6 +25,7 @@
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
+    "axios": "^1.1.2",
     "class-validator": "^0.13.2",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.1",
